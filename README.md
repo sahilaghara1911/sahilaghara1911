@@ -1,7 +1,7 @@
 <h1>Hi, I'm SAHIL 👋</h1>
 <li>😎 Open to contracting opportunities if the project sounds cool.</li>
 <li>🏢 Currenty Studying a Bsc Information Technology.</li>
-<li>⚙️ Love workin with: .html, .js, .css.</li>
+<li>⚙️ Love working with: .html, .js, .css.</li>
 <li>🌱 Learning more about and studying: Open Source, Anguler, Node Js.</li>
 <li>📫 Reach me asap: <a href="https://twitter.com/sahilaghara_19" target="_blank">Twitter</a> or sahilaghara1911@gmail.com.</li>
 <li>💜 Interests: Coding, Gaming, foodie, Cricket.</li>
