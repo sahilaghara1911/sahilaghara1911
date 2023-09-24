@@ -8,6 +8,5 @@
 <li>😄 Passionate about accessibility and committed to a web that works for everyone</li><br>
 <ul>Find me around the web 🌎:</ul>
 <li>💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/sahilaghara/" target="_blank">LinkedIn</a>.</li>
-<li>🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/playlist/4JF920cRfshQkZSDyN7bZL" target="_blank">Spotify</a>.</li>
-<li>👻 Live in the moment and and have fun together <a href="https://www.snapchat.com/add/sahilaghara_19?share_id=XjBntpx6ZqE&locale=en-US" target="_blank">Snapchat</a>.</li>
+
 
