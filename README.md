@@ -69,11 +69,11 @@ I'm a **Junior DevOps Engineer** passionate about automating everything and buil
 
 <div align="center">
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilaghara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilaghara1911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilaghara&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilaghara1911&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sahilaghara&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sahilaghara1911&theme=tokyonight&hide_border=true)
 
 </div>
 
