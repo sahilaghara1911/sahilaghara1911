@@ -69,11 +69,10 @@ I'm a **Junior DevOps Engineer** passionate about automating everything and buil
 
 <div align="center">
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilaghara1911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![Sahil's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilaghara1911&theme=tokyonight)](https://github.com/sahilaghara1911)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilaghara1911&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sahilaghara1911&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilaghara1911&theme=tokyonight)](https://github.com/sahilaghara1911)
+[![Most Committed](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilaghara1911&theme=tokyonight)](https://github.com/sahilaghara1911)
 
 </div>
 
@@ -99,6 +98,6 @@ I'm always up for a conversation about DevOps, cloud architecture, or just geeki
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sahilaghara&color=0089D6&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sahilaghara1911&color=0089D6&style=flat-square&label=Profile+Views)
 
 </div>
